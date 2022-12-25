@@ -8,7 +8,7 @@
 ### 我的统计 📖️
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cierra-Runis&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-trophy.vercel.app/?username=Cierra-Runis&theme=dark&row=1)
+![](https://github-profile-trophy.vercel.app/?username=Cierra-Runis&theme=night&row=1)
 
 ### 使用频度 🖥️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
