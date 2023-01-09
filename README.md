@@ -9,7 +9,7 @@
 
 ### 我的统计 📖️
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&count_private=true&custom_title=我的统计数据)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 使用频度 🖥️
 
