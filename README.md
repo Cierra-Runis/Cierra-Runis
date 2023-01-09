@@ -1,6 +1,6 @@
 ### 自己紹介 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=cierra-runis.github.io&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515)](https://note-of-me.top)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=cierra-runis.github.io&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://note-of-me.top)
 
 ### 我的设备 📱️
 
