@@ -10,7 +10,7 @@
 
 ### 我的统计 📖️
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cierra-Runis&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 使用频度 🖥️
 
@@ -22,4 +22,4 @@
 
 ### 推荐项目 ❤️️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Cierra-Runis&repo=mercurius_warehouse&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Cierra-Runis/mercurius_warehouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius_warehouse&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Cierra-Runis/mercurius_warehouse)
