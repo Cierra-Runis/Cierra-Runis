@@ -4,7 +4,7 @@
 
 ### 我的设备 📱️
 
-| [![](https://img.shields.io/badge/Lenovo%20Legion%205-black?style=flat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/) | [![](https://img.shields.io/badge/iPad%20Pro%202021-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) | [![](https://img.shields.io/badge/iPad%20Pro%202021-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) |
+| [![Laptop](https://img.shields.io/badge/Lenovo%20Legion%205-black?style=flat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/) | [![Ipad](https://img.shields.io/badge/iPad%20Pro%202021-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) | [![IQOO](https://img.shields.io/badge/IQOO%20Neo%205-black?style=flat-square&logoColor=white&logo=android)](https://www.iqoo.com/) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### 我的统计 📖️
@@ -45,6 +45,6 @@
 
 ### 最近动态 🏃🏻
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cierra-Runis&bg_color=151515&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&custom_title=最近动态&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Cierra_Runis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cierra-Runis&bg_color=151515&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&custom_title=最近动态&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-`最后更新于：2023-01-09 14:12:03`
+`最后更新于：2023-01-09 14:16:30`
