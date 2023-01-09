@@ -26,4 +26,4 @@
 
 ### 本周动态 🏃🏻
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cierra-Runisshow_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
