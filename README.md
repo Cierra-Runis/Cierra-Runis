@@ -4,7 +4,7 @@
 
 ### 我的设备 📱️
 
-| [![](https://img.shields.io/badge/Lenovo%20Legion%205-black?style=flat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/) | [![](https://img.shields.io/badge/iPad%20Pro%202021-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) | [![](https://img.shields.io/badge/IQOO%20Neo%205-black?style=flat-square&logoColor=white)](https://www.iqoo.com/) |
+| [![](https://img.shields.io/badge/Lenovo%20Legion%205-black?style=flat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/) | [![](https://img.shields.io/badge/iPad%20Pro%202021-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) | [![](https://img.shields.io/badge/IQOO%20Neo%205-black?style=flat-square&logoColor=white&logo=pixel)](https://www.iqoo.com/) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### 我的统计 📖️
