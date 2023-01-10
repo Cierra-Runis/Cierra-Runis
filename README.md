@@ -13,7 +13,7 @@
 
 ### 使用频度 🖥️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=10&custom_title=语言使用频度统计&locate=cn&border_radius=16&exclude_repo=cierra-runis.github.io-source,cierra-runis.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=10&custom_title=语言使用频度统计&locate=cn&border_radius=16&exclude_repo=cierra-runis.github.io-source,cierra-runis.github.io,note-of-me-cdn)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 连续贡献 🔥️
 
