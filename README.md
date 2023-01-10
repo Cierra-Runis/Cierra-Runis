@@ -23,28 +23,36 @@
 
 #### Flutter 🐝
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius_warehouse&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/mercurius_warehouse) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=danmaku&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/danmaku) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius_warehouse&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/mercurius_warehouse)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=danmaku&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/danmaku)
 
 #### Python 🐍
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=word-cloud&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/word-cloud) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=listener_email&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/listener_email) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=osu_testflight_listener&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/osu_testflight_listener) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=nideriji-exporter&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/nideriji-exporter) |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=word-cloud&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/word-cloud)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=listener_email&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/listener_email)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=osu_testflight_listener&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/osu_testflight_listener)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=nideriji-exporter&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/nideriji-exporter)
 
 #### 用户脚本 🧩
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=FuckQQ&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/FuckQQ) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=getTweets&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/getTweets) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=nideriji-exporter&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/Nideriji-Beautify) |                     **我还没写那么多😭**                      |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=FuckQQ&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/FuckQQ)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=getTweets&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/getTweets)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=nideriji-exporter&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/Nideriji-Beautify)
 
 #### 其他玩意 🎡
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=readManga&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/readManga) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=repository_template&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/repository_template) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=readManga&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/readManga)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=repository_template&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=16)](https://github.com/Cierra-Runis/repository_template)
 
 ### 最近动态 🏃🏻
 
 [![Cierra_Runis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cierra-Runis&bg_color=151515&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&custom_title=最近动态&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-`最后更新于：2023-01-09 14:16:30`
+`最后更新于：2023-01-10 20:34:20`
