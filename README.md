@@ -1,3 +1,5 @@
+`最后更新于：2023-01-10 20:34:20`
+
 ### 自己紹介 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=cierra-runis.github.io&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://note-of-me.top)
@@ -52,5 +54,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=readManga&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/readManga)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=repository_template&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/repository_template)
-
-`最后更新于：2023-01-10 20:34:20`
