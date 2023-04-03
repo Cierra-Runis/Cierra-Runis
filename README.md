@@ -33,6 +33,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=danmaku&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/danmaku)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=word_cloud&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/word_cloud)
+
 #### Python 🐍
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=word-cloud&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/word-cloud)
