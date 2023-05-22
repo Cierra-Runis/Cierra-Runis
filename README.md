@@ -29,7 +29,7 @@
 
 #### Flutter 🐝
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius_warehouse&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/mercurius_warehouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/mercurius)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=qweather_icons&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=151515&locate=cn&border_radius=12)](https://pub.dev/packages/qweather_icons)
 
