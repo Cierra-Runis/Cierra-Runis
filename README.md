@@ -19,7 +19,7 @@
 
 ### 连续贡献 🔥
 
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=Cierra-Runis&theme=dark&border_radius=10&locale=zh_Hans&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cierra-Runis&theme=dark&border_radius=10&locale=zh_Hans&border_radius=12)](https://git.io/streak-stats)
 
 ### 最近动态 🏃🏻
 
