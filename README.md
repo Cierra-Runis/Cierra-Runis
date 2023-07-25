@@ -19,11 +19,11 @@
 
 ### GitHub Streak - 连续贡献 🔥
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Cierra-Runis&theme=dark&background=22272E&border_radius=10&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cierra-Runis&theme=dark&background=22272E&border_radius=12)](https://git.io/streak-stats)
 
 ### Activity Graph - 最近动态 🏃🏻
 
-[![Cierra_Runis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cierra-Runis&bg_color=22272E&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Cierra_Runis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cierra-Runis&bg_color=22272E&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My Repositories - 我的项目 ❤
 
