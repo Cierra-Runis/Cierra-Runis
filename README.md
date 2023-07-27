@@ -1,5 +1,3 @@
-`最后更新于：2023-05-12 01:11:24`
-
 ### Self Introduction - 自己紹介 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=cierra-runis.github.io&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://note-of-me.top)
@@ -13,7 +11,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&count_private=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Langs - 语言排行 ☀
+### Top Langs - 语言排行 🌞
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&layout=compact&langs_count=10&border_radius=12&exclude_repo=cierra-runis.github.io-source,cierra-runis.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,7 +23,7 @@
 
 [![Cierra_Runis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cierra-Runis&bg_color=22272E&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### My Repositories - 我的项目 ❤
+### My Repositories - 我的项目 💖
 
 #### Flutter 🐝
 
@@ -39,7 +37,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_dock_scaffold&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_dock_scaffold)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_battery_indicator&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_battery_indicator)
+
 #### Python 🐍
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=nideriji-exporter&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/nideriji-exporter)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=word-cloud&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/word-cloud)
 
@@ -47,16 +49,16 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=osu_testflight_listener&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/osu_testflight_listener)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=nideriji-exporter&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/nideriji-exporter)
-
 #### Web Extension - 浏览器插件 🧩
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=FuckQQ&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/FuckQQ)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=getTweets&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/getTweets)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=FuckQQ&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/FuckQQ)
 
 #### Other Things - 其他玩意 🎡
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=readManga&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/readManga)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=Today_Daikanwa&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/Today_Daikanwa)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=repository_template&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/repository_template)
