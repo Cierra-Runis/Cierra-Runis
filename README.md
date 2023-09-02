@@ -53,8 +53,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=getTweets&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/getTweets)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=FuckQQ&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/FuckQQ)
-
 #### Other Things - 其他玩意 🎡
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=readManga&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/readManga)
