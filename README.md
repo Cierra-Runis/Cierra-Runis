@@ -29,6 +29,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/mercurius)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=allay&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/allay)
+
 #### Flutter Package 📦
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=qweather_icons&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://pub.dev/packages/qweather_icons)
@@ -36,6 +38,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_dock_scaffold&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_dock_scaffold)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_battery_indicator&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_battery_indicator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_list&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_list)
 
 #### Python 🐍
 
