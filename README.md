@@ -35,15 +35,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=qweather_icons&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://pub.dev/packages/qweather_icons)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_dock_scaffold&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_dock_scaffold)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_battery_indicator&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_battery_indicator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_list&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_list)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_avatar&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_avatar)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_split_view&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_split_view)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_widget&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_widget)
 
 ### Python 🐍
 
