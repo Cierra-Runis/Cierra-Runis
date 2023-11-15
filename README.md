@@ -13,7 +13,7 @@
 
 ## Top Langs - 语言排行 🌞
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&layout=compact&langs_count=10&border_radius=12&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&layout=compact&langs_count=10&border_radius=12&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Streak - 连续贡献 🔥
 
