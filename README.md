@@ -29,13 +29,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=mercurius&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/mercurius)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=allay&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/allay)
-
 ### Flutter Package 📦
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=qweather_icons&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://pub.dev/packages/qweather_icons)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=based_widget&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/based_widget)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=qweather_icons&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://pub.dev/packages/qweather_icons)
 
 ### Python 🐍
 
@@ -48,6 +46,8 @@
 ### Web Extension - 浏览器插件 🧩
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=getTweets&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/getTweets)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cierra-Runis&repo=FuckQQ&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&locate=cn&border_radius=12)](https://github.com/Cierra-Runis/FuckQQ)
 
 ### Other Things - 其他玩意 🎡
 
