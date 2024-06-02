@@ -58,5 +58,22 @@
       "type": "Others",
       "link": "https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy"
     }
+  },
+  {
+    "fontFamily": "Plangothic",
+    "name": {
+      "en": "Plangothic",
+      "zh-CN": "遍黑体",
+      "ja": "プランゴシック"
+    },
+    "files": [
+      "PlangothicP1-Regular.allideo.ttf",
+      "PlangothicP2-Regular.ttf"
+    ],
+    "description": {
+      "en": "Plangothic Project (Chinese: 遍黑体项目) is based on Source Han Sans CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020. We have completed all CJK extension blocks other than Extension B. Also, Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.",
+      "zh-CN": "遍黑体项目是基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于 2020 年 6 月前后启动。本字体现已支援除扩展 B 区以外全部位于扩展区的 CJK 统一汉字，扩展 C、D、E、F、I 区尚未进行精修，其他非汉字区块散有字形。",
+      "ja": "Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、源ノ角ゴシックの中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。当フォントは現在、CJK 統合漢字拡張 B を除く全範囲をサポートしていますが、拡張 C・D・E・F・I は確認が不十分で、CJK 統合漢字外のブロックは部分的にのみ実装されています。"
+    }
   }
 ]
