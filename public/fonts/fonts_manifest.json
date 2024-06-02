@@ -77,7 +77,7 @@
     },
     "website": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project",
     "license": {
-      "type": "SIL Open Font License",
+      "type": "SIL Open Font License Version 1.1",
       "link": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE"
     }
   },
@@ -100,6 +100,68 @@
     "license": {
       "type": "IPA Font License 1.0",
       "link": "https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE.md"
+    }
+  },
+  {
+    "fontFamily": "ArkPixelFont",
+    "name": {
+      "en": "Ark Pixel Font",
+      "zh-CN": "方舟像素字体",
+      "ja": "Ark Pixel Font"
+    },
+    "files": [
+      "Monospaced/10/ark-pixel-10px-monospaced-ja.ttf",
+      "Monospaced/10/ark-pixel-10px-monospaced-ko.ttf",
+      "Monospaced/10/ark-pixel-10px-monospaced-latin.ttf",
+      "Monospaced/10/ark-pixel-10px-monospaced-zh_cn.ttf",
+      "Monospaced/10/ark-pixel-10px-monospaced-zh_hk.ttf",
+      "Monospaced/10/ark-pixel-10px-monospaced-zh_tr.ttf",
+      "Monospaced/10/ark-pixel-10px-monospaced-zh_tw.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-ja.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-ko.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-latin.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-zh_cn.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-zh_hk.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-zh_tr.ttf",
+      "Monospaced/12/ark-pixel-12px-monospaced-zh_tw.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-ja.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-ko.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-latin.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-zh_cn.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-zh_hk.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-zh_tr.ttf",
+      "Monospaced/16/ark-pixel-16px-monospaced-zh_tw.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-ja.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-ko.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-latin.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-zh_cn.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-zh_hk.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-zh_tr.ttf",
+      "Proportional/10/ark-pixel-10px-proportional-zh_tw.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-ja.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-ko.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-latin.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-zh_hk.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-zh_cn.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-zh_tw.ttf",
+      "Proportional/12/ark-pixel-12px-proportional-zh_tr.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-ja.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-ko.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-latin.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-zh_cn.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-zh_hk.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-zh_tr.ttf",
+      "Proportional/16/ark-pixel-16px-proportional-zh_tw.ttf"
+    ],
+    "website": "https://github.com/TakWolf/ark-pixel-font",
+    "description": {
+      "en": "Open-source pan-CJK pixel font, sans-serif style, supporting 10, 12, and 16 pixels.",
+      "zh-CN": "开源的泛中日韩像素字体，黑体无衬线风格，支持 10、12 和 16 像素。",
+      "ja": "オープンソースの汎中日韩ピクセルフォント、サンセリフスタイルで、10、12、16 ピクセルに対応。"
+    },
+    "license": {
+      "type": "SIL Open Font License Version 1.1",
+      "link": "https://github.com/TakWolf/ark-pixel-font/blob/develop/LICENSE-OFL"
     }
   }
 ]
