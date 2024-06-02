@@ -77,7 +77,7 @@
     },
     "website": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project",
     "license": {
-      "type": "SIL Open Font License Version 1.1",
+      "type": "SIL Open Font License 1.1",
       "link": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE"
     }
   },
@@ -160,8 +160,29 @@
       "ja": "オープンソースの汎中日韩ピクセルフォント、サンセリフスタイルで、10、12、16 ピクセルに対応。"
     },
     "license": {
-      "type": "SIL Open Font License Version 1.1",
+      "type": "SIL Open Font License 1.1",
       "link": "https://github.com/TakWolf/ark-pixel-font/blob/develop/LICENSE-OFL"
+    }
+  },
+  {
+    "fontFamily": "SmileySans",
+    "name": {
+      "en": "Smiley Sans",
+      "zh-CN": "得意黑",
+      "ja": "Smiley Sans"
+    },
+    "files": [
+      "SmileySans-Oblique.ttf"
+    ],
+    "website": "https://atelier-anchor.com/typefaces/smiley-sans",
+    "description": {
+      "en": "A condensed and oblique Chinese typeface seeking a visual balance between the humanist and the geometric.",
+      "zh-CN": "一款在人文观感和几何特征中寻找视觉平衡的现代窄斜体。",
+      "ja": "人文観感と幾何学的特徴の間で視覚的なバランスを追求する現代のナローイタリック体。"
+    },
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "link": "https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE"
     }
   }
 ]
