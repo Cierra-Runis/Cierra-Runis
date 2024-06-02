@@ -62,9 +62,9 @@
   {
     "fontFamily": "Plangothic",
     "name": {
-      "en": "Plangothic",
-      "zh-CN": "遍黑体",
-      "ja": "プランゴシック"
+      "en": "Plangothic \uE001",
+      "zh-CN": "遍黑体 \uE001",
+      "ja": "プランゴシック \uE001"
     },
     "files": [
       "PlangothicP1-Regular.allideo.ttf",
