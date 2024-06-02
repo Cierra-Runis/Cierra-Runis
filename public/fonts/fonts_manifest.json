@@ -25,16 +25,16 @@
     },
     "website": "https://hyperos.mi.com/font",
     "license": {
-      "type": "Other",
+      "type": "Others",
       "link": "https://hyperos.mi.com/font/faq"
     }
   },
   {
     "fontFamily": "AlibabaPuHuiTi-3",
     "name": {
-      "en": "AlibabaPuHuiTi-3",
-      "zh-CN": "阿里巴巴惠普体 3",
-      "ja": "AlibabaPuHuiTi-3"
+      "en": "Alibaba PuHuiTi 3.0",
+      "zh-CN": "阿里巴巴普惠体 3.0",
+      "ja": "アリババ普惠体 3.0"
     },
     "files": [
       "AlibabaPuHuiTi-3-35-Thin.ttf",
@@ -49,14 +49,14 @@
       "AlibabaPuHuiTi-3-115-Black.ttf"
     ],
     "description": {
-      "en": "",
-      "zh-CN": "",
-      "ja": ""
+      "en": "Alibaba PuHuiTi is a globally free and licensed commercial font family. Alibaba PuHuiTi 3.0 is a Simplified Chinese character set that complies with the new national standard GB18030-2022. It includes three implementation levels of the GB18030-2022 mandatory specification: 7 weights that meet the standards of Implementation Levels 1 and 2, and a Regular single weight that meets the standards of Implementation Level 3. The 7 weights contain a total of 194,460 full-form Chinese characters. The font also includes Latin letters, Greek letters, Cyrillic letters, and punctuation marks.",
+      "zh-CN": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。阿里巴巴普惠体 3.0 为一套符合新国家标准 GB18030-2022 的简体中文字符集，包含 GB18030-2022 强制规范三个实现级别：实现级别 1 + 实现级别 2 标准规格的 7 字重、实现级别 3 标准规格的 Regular 单一字重。7 字重共 194,460 个全形汉字。包含拉丁字母、希腊字母、西里尔字母、标点符号。",
+      "ja": "アリババ普惠体は、世界中で無料で商業利用が可能なフォントファミリーです。アリババ普惠体 3.0 は、新しい国家標準 GB18030-2022 に準拠した簡体字中国語の文字セットです。これは、GB18030-2022 の強制仕様の 3 つの実装レベルを含みます：実装レベル 1 と実装レベル 2 の標準規格に適合する7つのウェイト、及び実装レベル 3 の標準規格に適合する Regular の単一ウェイトです。7 つのウェイトには合計 194,460 個の全形漢字が含まれています。また、ラテン文字、ギリシャ文字、キリル文字、句読点も含まれています。"
     },
-    "website": "",
+    "website": "https://www.alibabafonts.com",
     "license": {
-      "type": "",
-      "link": ""
+      "type": "Others",
+      "link": "https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy"
     }
   }
 ]
