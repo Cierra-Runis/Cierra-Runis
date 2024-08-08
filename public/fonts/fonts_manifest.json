@@ -184,5 +184,48 @@
       "type": "SIL Open Font License 1.1",
       "link": "https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE"
     }
+  },
+  {
+    "fontFamily": "ChillRoundF",
+    "name": {
+      "en": "ChillRoundF",
+      "zh-CN": "寒蝉全圆体",
+      "ja": "ChillRoundF"
+    },
+    "files": [
+      "ChillRoundF-Bold.ttf",
+      "ChillRoundF-Regular.ttf"
+    ],
+    "website": "https://github.com/Warren2060/ChillRound",
+    "description": {
+      "en": "A round font based on the Japanese open source fonts Kosugi Maru, justfont Fenyuan, and Maokentang Yuanti.",
+      "zh-CN": "一款基于日本开源字体小衫圆体（Kosugi Maru）、justfont 粉圆、猫啃糖圆体，进行调整的圆体字体。",
+      "ja": "A round font based on the Japanese open source fonts Kosugi Maru, justfont Fenyuan, and Maokentang Yuanti."
+    },
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "link": "https://github.com/Warren2060/ChillRound/LICENSE"
+    }
+  },
+  {
+    "fontFamily": "ChillRoundM",
+    "name": {
+      "en": "ChillRoundM",
+      "zh-CN": "寒蝉半圆体",
+      "ja": "ChillRoundM"
+    },
+    "files": [
+      "ChillRoundM.ttf"
+    ],
+    "website": "https://github.com/Warren2060/ChillRound",
+    "description": {
+      "en": "A round font based on the Japanese open source font Zen Maru Gothic.",
+      "zh-CN": "一款基于日本开源字体 Zen Maru Gothic 的圆体字体。",
+      "ja": "A round font based on the Japanese open source font Zen Maru Gothic."
+    },
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "link": "https://github.com/Warren2060/ChillRound/LICENSE"
+    }
   }
 ]
