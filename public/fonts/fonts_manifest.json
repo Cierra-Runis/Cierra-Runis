@@ -19,9 +19,9 @@
       "MiSans-Thin.ttf"
     ],
     "description": {
-      "en": "MiSans Global is a global language font customization project led by Xiaomi, in collaboration with Monotype and Hanyi Fonts. This is an extensive font family that encompasses over 20 writing systems, supports more than 600 languages, and includes over 100,000 characters. As the default font of the Xiaomi HyperOS system, we are guided by the fundamental principles of simplicity/clarity, humanism/readability, and a unified visual style. Our goal is to build consistency in multilingual information experiences and to help provide a connected universal experience for Xiaomi HyperOS.",
-      "zh-CN": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。这是一个庞大的字体家族，涵盖 20 多种书写系统，支持 600 多种语言，字符数量超过 10 万个。作为 Xiaomi HyperOS 系统默认字体，我们以简约/清晰，人文/易读，统一的视觉风格为基本原则出发，构建多语言信息体验一致性，旨在帮助为 Xiaomi HyperOS 提供互联的通用体验。",
-      "ja": "MiSans Global は、小米が主導し、蒙纳字库と汉仪字库と共同で作成したグローバル言語フォントカスタマイズプロジェクトです。これは 20 以上の書記体系を網羅し、600 以上の言語をサポートする、10 万以上の文字数を含む巨大なフォントファミリーです。Xiaomi HyperOS システムのデフォルトフォントとして、シンプル/クリア、人文的/読みやすい、統一された視覚スタイルを基本原則とし、多言語情報の一貫性を構築することを目指しています。これにより、Xiaomi HyperOS に共通の接続体験を提供することを支援します。"
+      "en": "MiSans Global is a global language font customization project led by Xiaomi, in collaboration with Monotype and Hanyi Fonts.",
+      "zh-CN": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。",
+      "ja": "MiSans Global は、小米が主導し、蒙纳字库と汉仪字库と共同で作成したグローバル言語フォントカスタマイズプロジェクトです。"
     },
     "website": "https://hyperos.mi.com/font",
     "license": {
@@ -49,9 +49,9 @@
       "AlibabaPuHuiTi-3-115-Black.ttf"
     ],
     "description": {
-      "en": "Alibaba PuHuiTi is a globally free and licensed commercial font family. Alibaba PuHuiTi 3.0 is a Simplified Chinese character set that complies with the new national standard GB18030-2022. It includes three implementation levels of the GB18030-2022 mandatory specification: 7 weights that meet the standards of Implementation Levels 1 and 2, and a Regular single weight that meets the standards of Implementation Level 3. The 7 weights contain a total of 194,460 full-form Chinese characters. The font also includes Latin letters, Greek letters, Cyrillic letters, and punctuation marks.",
-      "zh-CN": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。阿里巴巴普惠体 3.0 为一套符合新国家标准 GB18030-2022 的简体中文字符集，包含 GB18030-2022 强制规范三个实现级别：实现级别 1 + 实现级别 2 标准规格的 7 字重、实现级别 3 标准规格的 Regular 单一字重。7 字重共 194,460 个全形汉字。包含拉丁字母、希腊字母、西里尔字母、标点符号。",
-      "ja": "アリババ普惠体は、世界中で無料で商業利用が可能なフォントファミリーです。アリババ普惠体 3.0 は、新しい国家標準 GB18030-2022 に準拠した簡体字中国語の文字セットです。これは、GB18030-2022 の強制仕様の 3 つの実装レベルを含みます：実装レベル 1 と実装レベル 2 の標準規格に適合する7つのウェイト、及び実装レベル 3 の標準規格に適合する Regular の単一ウェイトです。7 つのウェイトには合計 194,460 個の全形漢字が含まれています。また、ラテン文字、ギリシャ文字、キリル文字、句読点も含まれています。"
+      "en": "Alibaba PuHuiTi is a globally free and licensed commercial font family.",
+      "zh-CN": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。",
+      "ja": "アリババ普惠体は、世界中で無料で商業利用が可能なフォントファミリーです。"
     },
     "website": "https://www.alibabafonts.com",
     "license": {
@@ -71,9 +71,9 @@
       "PlangothicP2-Regular.ttf"
     ],
     "description": {
-      "en": "Plangothic Project (Chinese: 遍黑体项目) is based on Source Han Sans CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020. We have completed all CJK extension blocks other than Extension B. Also, Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.",
-      "zh-CN": "遍黑体项目是基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于 2020 年 6 月前后启动。本字体现已支援除扩展 B 区以外全部位于扩展区的 CJK 统一汉字，扩展 C、D、E、F、I 区尚未进行精修，其他非汉字区块散有字形。",
-      "ja": "Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、源ノ角ゴシックの中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。当フォントは現在、CJK 統合漢字拡張 B を除く全範囲をサポートしていますが、拡張 C・D・E・F・I は確認が不十分で、CJK 統合漢字外のブロックは部分的にのみ実装されています。"
+      "en": "Plangothic Project (Chinese: 遍黑体项目) is based on Source Han Sans CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020.",
+      "zh-CN": "遍黑体项目是基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于 2020 年 6 月前后启动。",
+      "ja": "Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、源ノ角ゴシックの中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。"
     },
     "website": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project",
     "license": {
