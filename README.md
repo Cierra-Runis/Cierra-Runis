@@ -4,10 +4,9 @@
 
 ## My Devices - 我的设备 📱
 
-| [![Laptop](https://img.shields.io/badge/Lenovo%20Legion%205-black?style=flat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/) | [![iPad](https://img.shields.io/badge/iPad%20Pro%202021%2011inch-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) |
-| :----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|   ~~[![IQOO](https://img.shields.io/badge/IQOO%20Neo%205-black?style=flat-square&logoColor=white&logo=android)](https://www.iqoo.com/)~~   | [![Mac](https://img.shields.io/badge/Mac%20Mini%20M2-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/mac/)  |
-|       [![OPPO](https://img.shields.io/badge/OPPO%20A93-black?style=flat-square&logoColor=white&logo=android)](https://www.oppo.com/)       |                                                                                                                                        |
+|          [![Laptop](https://img.shields.io/badge/Lenovo%20Legion%205-black?style=flat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/)          | [![iPad](https://img.shields.io/badge/iPad%20Pro%202021%2011inch-black?style=flat-square&logo=apple)](https://www.apple.com/ipad-pro/) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| ~~[![Redmi](https://img.shields.io/badge/Redmi%20K70-black?style=flat-square&logoColor=white&logo=android)](https://www.mi.com/global/product-list/redmi/)~~ | [![Mac](https://img.shields.io/badge/Mac%20Mini%20M2-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/mac/)  |
 
 ## Statistic - 统计数据 📖
 
