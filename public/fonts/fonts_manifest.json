@@ -253,5 +253,26 @@
       "type": "SIL Open Font License 1.1",
       "link": "https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt"
     }
+  },
+  {
+    "fontFamily": "Unifont",
+    "name": {
+      "en": "Unifont",
+      "zh-CN": "Unifont",
+      "ja": "Unifont"
+    },
+    "files": [
+      "Unifont.ttf"
+    ],
+    "website": "https://unifoundry.com/unifont/",
+    "description": {
+      "en": "GNU Unifont is a free Unicode bitmap font created by Roman Czyborra.",
+      "zh-CN": "GNU Unifont 是一个由 Roman Czyborra 所制作的，自由且免费的点阵字体。",
+      "ja": "GNU Unifont は、Roman Czyborra によって作成された無料のビットマップフォントです。"
+    },
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "link": "https://unifoundry.com/OFL-1.1.txt"
+    }
   }
 ]
