@@ -227,5 +227,31 @@
       "type": "SIL Open Font License 1.1",
       "link": "https://github.com/Warren2060/ChillRound/blob/main/LICENSE"
     }
+  },
+  {
+    "fontFamily": "LXGWWenKai",
+    "name": {
+      "en": "LXGWWenKai",
+      "zh-CN": "霞鹜文楷",
+      "ja": "LXGWWenKai"
+    },
+    "files": [
+      "LXGWWenKai-Light.ttf",
+      "LXGWWenKai-Medium.ttf",
+      "LXGWWenKai-Regular.ttf",
+      "LXGWWenKaiMono-Light.ttf",
+      "LXGWWenKaiMono-Medium.ttf",
+      "LXGWWenKaiMono-Regular.ttf"
+    ],
+    "website": "https://github.com/lxgw/LxgwWenKai",
+    "description": {
+      "en": "An open-source Chinese font derived from Fontworks' Klee One.",
+      "zh-CN": "一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
+      "ja": "FONTWORKS が作成したフォント Klee One から派生したオープンソースの中国語フォント。"
+    },
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "link": "https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt"
+    }
   }
 ]
