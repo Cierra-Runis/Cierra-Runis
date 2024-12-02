@@ -25,7 +25,3 @@ Here's my bloc: [note-of-me.top](https://note-of-me.top), it's written in Chines
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Cierra-Runis&theme=dark&background=22272E&border_radius=16)](https://git.io/streak-stats)
-
-## 🏃🏻 Activity Graph
-
-[![Cierra_Runis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cierra-Runis&bg_color=22272E&color=9f9f9f&title_color=fff&line=ff8000&point=ff8000&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
