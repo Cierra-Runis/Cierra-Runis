@@ -20,7 +20,7 @@ Here's my bloc: [note-of-me.top](https://note-of-me.top), it's written in Chines
 
 ## 🌞 Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&layout=compact&langs_count=10&border_radius=16&size_weight=0.5&count_weight=0.5&hide=cmake,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-Runis&show_icons=true&title_color=fff&icon_color=ff8000&text_color=9f9f9f&bg_color=22272E&layout=compact&langs_count=10&border_radius=16&size_weight=1&count_weight=0&hide=cmake,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 GitHub Streak
 
