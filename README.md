@@ -2,7 +2,7 @@
 
 I am interested in front-end and mobile application development.
 
-Here's my bloc: [note-of-me.top](https://note-of-me.top), it's refactoring now, you can click [cierra-runis.github.io](https://cierra-runis.github.io) to visit the old version.
+Here's my bloc: [note-of-me.top](https://note-of-me.top), it's refactoring now.
 
 ## 📱 My Devices
 
