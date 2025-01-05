@@ -2,7 +2,7 @@
 
 I am interested in front-end and mobile application development.
 
-Here's my bloc: [note-of-me.top](https://note-of-me.top), it's refactoring now.
+Here's my bloc: [note-of-me.top](https://note-of-me.top).
 
 ## 📱 My Devices
 
