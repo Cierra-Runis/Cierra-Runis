@@ -12,7 +12,7 @@ Here's my bloc: [note-of-me.top](https://note-of-me.top).
 
 - [![REDMI](https://img.shields.io/badge/Redmi%20K70-black?style=flat-square&logoColor=white&logo=android)](https://www.mi.com/global/product-list/redmi/) A fairly cost-effective and reasonably playable Android phone.
 
-- [![Mac](https://img.shields.io/badge/Mac%20Mini%20M2-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/mac/) Used as a Minecraft Server, or Developing some SwiftUI projects.
+- [![Mac](https://img.shields.io/badge/Mac%20Mini%20M4-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/mac/) Used as a Minecraft Server, or Developing some SwiftUI projects.
 
 ## 🌞 Top Langs
 
