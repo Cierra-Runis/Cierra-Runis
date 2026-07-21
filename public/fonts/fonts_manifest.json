@@ -1,10 +1,38 @@
 [
   {
-    "fontFamily": "MiSans",
+    "description": {
+      "en": "",
+      "ja": "",
+      "zh-CN": ""
+    },
+    "files": [
+      "MPLUS2-Black.ttf",
+      "MPLUS2-Bold.ttf",
+      "MPLUS2-ExtraBold.ttf",
+      "MPLUS2-ExtraLight.ttf",
+      "MPLUS2-Light.ttf",
+      "MPLUS2-Medium.ttf",
+      "MPLUS2-Regular.ttf",
+      "MPLUS2-SemiBold.ttf",
+      "MPLUS2-Thin.ttf"
+    ],
+    "fontFamily": "MPLUS2",
+    "license": {
+      "link": "https://github.com/coz-m/MPLUS_FONTS/blob/master/OFL.txt",
+      "type": "SIL Open Font License 1.1"
+    },
     "name": {
-      "en": "MiSans",
-      "zh-CN": "MiSans",
-      "ja": "MiSans"
+      "en": "M PLUS 2",
+      "ja": "M PLUS 2",
+      "zh-CN": "M PLUS 2"
+    },
+    "website": "https://mplusfonts.github.io"
+  },
+  {
+    "description": {
+      "en": "MiSans Global is a global language font customization project led by Xiaomi, in collaboration with Monotype and Hanyi Fonts.",
+      "ja": "MiSans Global は、小米が主導し、蒙纳字库と汉仪字库と共同で作成したグローバル言語フォントカスタマイズプロジェクトです。",
+      "zh-CN": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。"
     },
     "files": [
       "MiSans-Bold.ttf",
@@ -18,23 +46,23 @@
       "MiSans-Semibold.ttf",
       "MiSans-Thin.ttf"
     ],
-    "description": {
-      "en": "MiSans Global is a global language font customization project led by Xiaomi, in collaboration with Monotype and Hanyi Fonts.",
-      "zh-CN": "MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造的全球语言字体定制项目。",
-      "ja": "MiSans Global は、小米が主導し、蒙纳字库と汉仪字库と共同で作成したグローバル言語フォントカスタマイズプロジェクトです。"
-    },
-    "website": "https://hyperos.mi.com/font",
+    "fontFamily": "MiSans",
     "license": {
-      "type": "Others",
-      "link": "https://hyperos.mi.com/font/faq"
-    }
+      "link": "https://hyperos.mi.com/font/faq",
+      "type": "Others"
+    },
+    "name": {
+      "en": "MiSans",
+      "ja": "MiSans",
+      "zh-CN": "MiSans"
+    },
+    "website": "https://hyperos.mi.com/font"
   },
   {
-    "fontFamily": "AlibabaPuHuiTi-3",
-    "name": {
-      "en": "Alibaba PuHuiTi 3.0",
-      "zh-CN": "阿里巴巴普惠体 3.0",
-      "ja": "アリババ普惠体 3.0"
+    "description": {
+      "en": "Alibaba PuHuiTi is a globally free and licensed commercial font family.",
+      "ja": "アリババ普惠体は、世界中で無料で商業利用が可能なフォントファミリーです。",
+      "zh-CN": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。"
     },
     "files": [
       "AlibabaPuHuiTi-3-35-Thin.ttf",
@@ -48,66 +76,66 @@
       "AlibabaPuHuiTi-3-105-Heavy.ttf",
       "AlibabaPuHuiTi-3-115-Black.ttf"
     ],
-    "description": {
-      "en": "Alibaba PuHuiTi is a globally free and licensed commercial font family.",
-      "zh-CN": "阿里巴巴普惠体是一套全球永久免费正版商用的字体家族。",
-      "ja": "アリババ普惠体は、世界中で無料で商業利用が可能なフォントファミリーです。"
-    },
-    "website": "https://www.alibabafonts.com",
+    "fontFamily": "AlibabaPuHuiTi-3",
     "license": {
-      "type": "Others",
-      "link": "https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy"
-    }
+      "link": "https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy",
+      "type": "Others"
+    },
+    "name": {
+      "en": "Alibaba PuHuiTi 3.0",
+      "ja": "アリババ普惠体 3.0",
+      "zh-CN": "阿里巴巴普惠体 3.0"
+    },
+    "website": "https://www.alibabafonts.com"
   },
   {
-    "fontFamily": "Plangothic",
-    "name": {
-      "en": "Plangothic",
-      "zh-CN": "遍黑体",
-      "ja": "プランゴシック"
+    "description": {
+      "en": "Plangothic Project (Chinese: 遍黑体项目) is based on Source Han Sans CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020.",
+      "ja": "Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、源ノ角ゴシックの中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。",
+      "zh-CN": "遍黑体项目是基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于 2020 年 6 月前后启动。"
     },
     "files": [
       "PlangothicP1-Regular.allideo.ttf",
       "PlangothicP2-Regular.ttf"
     ],
-    "description": {
-      "en": "Plangothic Project (Chinese: 遍黑体项目) is based on Source Han Sans CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020.",
-      "zh-CN": "遍黑体项目是基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于 2020 年 6 月前后启动。",
-      "ja": "Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、源ノ角ゴシックの中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。"
-    },
-    "website": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project",
+    "fontFamily": "Plangothic",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE"
-    }
+      "link": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "Plangothic",
+      "ja": "プランゴシック",
+      "zh-CN": "遍黑体"
+    },
+    "website": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project"
   },
   {
-    "fontFamily": "LXGWNeoZhiSong",
-    "name": {
-      "en": "LXGW Neo ZhiSong",
-      "zh-CN": "霞鹜新致宋",
-      "ja": "LXGW Neo ZhiSong"
+    "description": {
+      "en": "A Chinese serif font derived from IPAmj Mincho.",
+      "ja": "「IPAmj 明朝」から派生した中国語の宋体フォント。",
+      "zh-CN": "一款衍生于「IPAmj 明朝」的中文宋体字型。"
     },
     "files": [
       "LXGWNeoZhiSong.ttf"
     ],
-    "website": "https://github.com/lxgw/LxgwNeoZhiSong",
-    "description": {
-      "en": "A Chinese serif font derived from IPAmj Mincho.",
-      "zh-CN": "一款衍生于「IPAmj 明朝」的中文宋体字型。",
-      "ja": "「IPAmj 明朝」から派生した中国語の宋体フォント。"
-    },
+    "fontFamily": "LXGWNeoZhiSong",
     "license": {
-      "type": "IPA Font License 1.0",
-      "link": "https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE.md"
-    }
+      "link": "https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE.md",
+      "type": "IPA Font License 1.0"
+    },
+    "name": {
+      "en": "LXGW Neo ZhiSong",
+      "ja": "LXGW Neo ZhiSong",
+      "zh-CN": "霞鹜新致宋"
+    },
+    "website": "https://github.com/lxgw/LxgwNeoZhiSong"
   },
   {
-    "fontFamily": "ArkPixelFont",
-    "name": {
-      "en": "Ark Pixel Font",
-      "zh-CN": "方舟像素字体",
-      "ja": "Ark Pixel Font"
+    "description": {
+      "en": "Open-source pan-CJK pixel font, sans-serif style, supporting 10, 12, and 16 pixels.",
+      "ja": "オープンソースの汎中日韩ピクセルフォント、サンセリフスタイルで、10、12、16 ピクセルに対応。",
+      "zh-CN": "开源的泛中日韩像素字体，黑体无衬线风格，支持 10、12 和 16 像素。"
     },
     "files": [
       "Monospaced/10/ark-pixel-10px-monospaced-ja.ttf",
@@ -153,87 +181,87 @@
       "Proportional/16/ark-pixel-16px-proportional-zh_tr.ttf",
       "Proportional/16/ark-pixel-16px-proportional-zh_tw.ttf"
     ],
-    "website": "https://github.com/TakWolf/ark-pixel-font",
-    "description": {
-      "en": "Open-source pan-CJK pixel font, sans-serif style, supporting 10, 12, and 16 pixels.",
-      "zh-CN": "开源的泛中日韩像素字体，黑体无衬线风格，支持 10、12 和 16 像素。",
-      "ja": "オープンソースの汎中日韩ピクセルフォント、サンセリフスタイルで、10、12、16 ピクセルに対応。"
-    },
+    "fontFamily": "ArkPixelFont",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/TakWolf/ark-pixel-font/blob/develop/LICENSE-OFL"
-    }
+      "link": "https://github.com/TakWolf/ark-pixel-font/blob/develop/LICENSE-OFL",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "Ark Pixel Font",
+      "ja": "Ark Pixel Font",
+      "zh-CN": "方舟像素字体"
+    },
+    "website": "https://github.com/TakWolf/ark-pixel-font"
   },
   {
-    "fontFamily": "SmileySans",
-    "name": {
-      "en": "Smiley Sans",
-      "zh-CN": "得意黑",
-      "ja": "Smiley Sans"
+    "description": {
+      "en": "A condensed and oblique Chinese typeface seeking a visual balance between the humanist and the geometric.",
+      "ja": "人文観感と幾何学的特徴の間で視覚的なバランスを追求する現代のナローイタリック体。",
+      "zh-CN": "一款在人文观感和几何特征中寻找视觉平衡的现代窄斜体。"
     },
     "files": [
       "SmileySans-Oblique.ttf"
     ],
-    "website": "https://atelier-anchor.com/typefaces/smiley-sans",
-    "description": {
-      "en": "A condensed and oblique Chinese typeface seeking a visual balance between the humanist and the geometric.",
-      "zh-CN": "一款在人文观感和几何特征中寻找视觉平衡的现代窄斜体。",
-      "ja": "人文観感と幾何学的特徴の間で視覚的なバランスを追求する現代のナローイタリック体。"
-    },
+    "fontFamily": "SmileySans",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE"
-    }
+      "link": "https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "Smiley Sans",
+      "ja": "Smiley Sans",
+      "zh-CN": "得意黑"
+    },
+    "website": "https://atelier-anchor.com/typefaces/smiley-sans"
   },
   {
-    "fontFamily": "ChillRoundF",
-    "name": {
-      "en": "ChillRoundF",
-      "zh-CN": "寒蝉全圆体",
-      "ja": "ChillRoundF"
+    "description": {
+      "en": "A round font based on the Japanese open source fonts Kosugi Maru, justfont Fenyuan, and Maokentang Yuanti.",
+      "ja": "A round font based on the Japanese open source fonts Kosugi Maru, justfont Fenyuan, and Maokentang Yuanti.",
+      "zh-CN": "一款基于日本开源字体小衫圆体（Kosugi Maru）、justfont 粉圆、猫啃糖圆体，进行调整的圆体字体。"
     },
     "files": [
       "ChillRoundF-Bold.ttf",
       "ChillRoundF-Regular.ttf"
     ],
-    "website": "https://github.com/Warren2060/ChillRound",
-    "description": {
-      "en": "A round font based on the Japanese open source fonts Kosugi Maru, justfont Fenyuan, and Maokentang Yuanti.",
-      "zh-CN": "一款基于日本开源字体小衫圆体（Kosugi Maru）、justfont 粉圆、猫啃糖圆体，进行调整的圆体字体。",
-      "ja": "A round font based on the Japanese open source fonts Kosugi Maru, justfont Fenyuan, and Maokentang Yuanti."
-    },
+    "fontFamily": "ChillRoundF",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/Warren2060/ChillRound/blob/main/LICENSE"
-    }
+      "link": "https://github.com/Warren2060/ChillRound/blob/main/LICENSE",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "ChillRoundF",
+      "ja": "ChillRoundF",
+      "zh-CN": "寒蝉全圆体"
+    },
+    "website": "https://github.com/Warren2060/ChillRound"
   },
   {
-    "fontFamily": "ChillRoundM",
-    "name": {
-      "en": "ChillRoundM",
-      "zh-CN": "寒蝉半圆体",
-      "ja": "ChillRoundM"
+    "description": {
+      "en": "A round font based on the Japanese open source font Zen Maru Gothic.",
+      "ja": "A round font based on the Japanese open source font Zen Maru Gothic.",
+      "zh-CN": "一款基于日本开源字体 Zen Maru Gothic 的圆体字体。"
     },
     "files": [
       "ChillRoundM.ttf"
     ],
-    "website": "https://github.com/Warren2060/ChillRound",
-    "description": {
-      "en": "A round font based on the Japanese open source font Zen Maru Gothic.",
-      "zh-CN": "一款基于日本开源字体 Zen Maru Gothic 的圆体字体。",
-      "ja": "A round font based on the Japanese open source font Zen Maru Gothic."
-    },
+    "fontFamily": "ChillRoundM",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/Warren2060/ChillRound/blob/main/LICENSE"
-    }
+      "link": "https://github.com/Warren2060/ChillRound/blob/main/LICENSE",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "ChillRoundM",
+      "ja": "ChillRoundM",
+      "zh-CN": "寒蝉半圆体"
+    },
+    "website": "https://github.com/Warren2060/ChillRound"
   },
   {
-    "fontFamily": "LXGWWenKai",
-    "name": {
-      "en": "LXGWWenKai",
-      "zh-CN": "霞鹜文楷",
-      "ja": "LXGWWenKai"
+    "description": {
+      "en": "An open-source Chinese font derived from Fontworks' Klee One.",
+      "ja": "FONTWORKS が作成したフォント Klee One から派生したオープンソースの中国語フォント。",
+      "zh-CN": "一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。"
     },
     "files": [
       "LXGWWenKai-Light.ttf",
@@ -243,36 +271,37 @@
       "LXGWWenKaiMono-Medium.ttf",
       "LXGWWenKaiMono-Regular.ttf"
     ],
-    "website": "https://github.com/lxgw/LxgwWenKai",
-    "description": {
-      "en": "An open-source Chinese font derived from Fontworks' Klee One.",
-      "zh-CN": "一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
-      "ja": "FONTWORKS が作成したフォント Klee One から派生したオープンソースの中国語フォント。"
-    },
+    "fontFamily": "LXGWWenKai",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt"
-    }
+      "link": "https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "LXGWWenKai",
+      "ja": "LXGWWenKai",
+      "zh-CN": "霞鹜文楷"
+    },
+    "website": "https://github.com/lxgw/LxgwWenKai"
   },
   {
-    "fontFamily": "Unifont",
-    "name": {
-      "en": "Unifont",
-      "zh-CN": "Unifont",
-      "ja": "Unifont"
+    "description": {
+      "en": "GNU Unifont is a free Unicode bitmap font created by Roman Czyborra.",
+      "ja": "GNU Unifont は、Roman Czyborra によって作成された無料のビットマップフォントです。",
+      "zh-CN": "GNU Unifont 是一个由 Roman Czyborra 所制作的，自由且免费的点阵字体。"
     },
     "files": [
       "Unifont.ttf"
     ],
-    "website": "https://unifoundry.com/unifont/",
-    "description": {
-      "en": "GNU Unifont is a free Unicode bitmap font created by Roman Czyborra.",
-      "zh-CN": "GNU Unifont 是一个由 Roman Czyborra 所制作的，自由且免费的点阵字体。",
-      "ja": "GNU Unifont は、Roman Czyborra によって作成された無料のビットマップフォントです。"
-    },
+    "fontFamily": "Unifont",
     "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://unifoundry.com/OFL-1.1.txt"
-    }
+      "link": "https://unifoundry.com/OFL-1.1.txt",
+      "type": "SIL Open Font License 1.1"
+    },
+    "name": {
+      "en": "Unifont",
+      "ja": "Unifont",
+      "zh-CN": "Unifont"
+    },
+    "website": "https://unifoundry.com/unifont/"
   }
 ]
